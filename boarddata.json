@@ -1,0 +1,53 @@
+{
+  "dispatcher": "Jonathan",
+  "shiftStart": "5:15 PM",
+  "loadsSoFar": "31",
+  "early": [
+    {
+      "time": "5:30 PM",
+      "type": "BUMPER",
+      "driver": "Kirk"
+    },
+    {
+      "time": "5:45 PM",
+      "type": "WELD",
+      "driver": "Kenneth"
+    },
+    {
+      "time": "6:00 PM",
+      "type": "UNIT",
+      "driver": "Greg"
+    },
+    {
+      "time": "6:15 PM",
+      "type": "OSS",
+      "driver": "James"
+    },
+    {
+      "time": "6:30 PM",
+      "type": "STAMPING",
+      "driver": "Terry"
+    }
+  ],
+  "rotation": [
+    "Kirk",
+    "Kenneth",
+    "Greg",
+    "James",
+    "Terry",
+    "Danquise",
+    "Justin",
+    "Stephen",
+    "Brittney",
+    "Brian H."
+  ],
+  "announcements": [
+    "Please check in with dispatch before leaving the yard.",
+    "Confirm load type before departing.",
+    "Keep radios on channel 1 at all times.",
+    "Thank you for keeping our operation safe and efficient!"
+  ],
+  "alerts": [
+    "NO ACTIVE ALERTS"
+  ]
+}
